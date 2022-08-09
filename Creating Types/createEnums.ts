@@ -10,6 +10,7 @@ level = Level.Magago;
 console.log(level);
 
 level = 5;
+console.log(level);
 
 enum Day {
      Sunday = 'SUN',
@@ -25,4 +26,4 @@ enum Day {
 let week: Day;
 week = Day.Tuesday
 console.log(week)
-week = 'w'
+// week = 'w'

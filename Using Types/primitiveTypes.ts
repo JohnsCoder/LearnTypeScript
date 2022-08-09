@@ -22,24 +22,4 @@ console.log("phone", typeof phone);
 const stars = Symbol("***");
 console.log("stars", typeof stars);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 export {}
